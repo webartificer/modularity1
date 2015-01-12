@@ -1,0 +1,21 @@
+/* ADD YOUR STYLES HERE */
+
+table {
+	width: 90%;
+}
+
+tr {
+	border-bottom: 1px solid silver;
+}
+
+tr:last-child {
+	border-bottom: none;
+}
+
+td, th {
+	padding: 10px;
+}
+
+th {
+	border-bottom: 1px solid silver;
+}
